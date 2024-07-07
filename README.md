@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beelal-Afzal.
 - 👀 I’m interested in learning skills related to code.
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me ... (beelalchaudhary@gmail.com) feel free to ask...
+- 📫 How to reach me ... beelalchaudhary@gmail.com feel free to ask...
 
 
 <!---
